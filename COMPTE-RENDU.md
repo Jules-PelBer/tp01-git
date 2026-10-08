@@ -77,6 +77,11 @@
 
 ## Question 4.3 
     1) test.txt se trouve maintenant dans le répertoire de travail. Le fichier n'a pas été supprimer du disque il a simplement été dé-indexé.
+
+## Question 4.4
+    1) les fichiers touch_brouillon.txt, erreurs.log et debug.log ont disparu. *.log signifie tous les fichiers qui ont l'extension .log
+    
+    2) .gitignore est apparu. il faut le commiter.
    
 
 
