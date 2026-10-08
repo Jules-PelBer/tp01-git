@@ -85,6 +85,12 @@
 
 ## Question 4.5 
     1) Lors du premier commit README.md contenait les questions de 0 à 3.5. Depuis j'y ai ajouté l'année scolaire comme demandé dans la question 3.7.
+
+## Question 5.2
+    1) les fichiers id_ed25519 et id_ed25519.pub. la clé avec l'extension .pub est la clé publique.
+    
+    2) la clé privée comme la clé publique ont "rwx------"
+
    
 
 
