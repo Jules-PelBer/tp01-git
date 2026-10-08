@@ -102,7 +102,8 @@
 
     2) oui c'est le même. Le fichier brouillon.txt n'y est pas car il y a le fichier .gitignore.
 
-
+## Question 6.4a
+    1) Non le dépot local ne contient pas la modification. Git status ne prévient non plus car la commande git status donne le statut des fichiers sur le depot local.
 
 
    
