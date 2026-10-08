@@ -7,3 +7,5 @@
 3) git add --> Permet de sélectionner un fichier pour le prochain commit.
 
 4) git commit --> Permet de sauvegarder les modifications des fichiers dans le commit.   
+
+5) git log --oneline --> Permet de faire un résumé ligne par ligne de l'historique. 
