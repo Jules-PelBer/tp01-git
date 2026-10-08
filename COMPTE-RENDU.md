@@ -96,6 +96,15 @@
 
     2) Car la clé privée permet de débloquer la clé publique donc donner la publique est sans risque tant qu'on donne pas la clé privée.
 
+## Question 6.3
+    1) origin	git@github.com:Jules-PelBer/tp01-git.git (fetch)
+       origin	git@github.com:Jules-PelBer/tp01-git.git (push)
+
+    2) oui c'est le même. Le fichier brouillon.txt n'y est pas car il y a le fichier .gitignore.
+
+
+
+
    
 
 
