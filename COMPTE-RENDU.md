@@ -82,6 +82,9 @@
     1) les fichiers touch_brouillon.txt, erreurs.log et debug.log ont disparu. *.log signifie tous les fichiers qui ont l'extension .log
     
     2) .gitignore est apparu. il faut le commiter.
+
+## Question 4.5 
+    1) Lors du premier commit README.md contenait les questions de 0 à 3.5. Depuis j'y ai ajouté l'année scolaire comme demandé dans la question 3.7.
    
 
 
