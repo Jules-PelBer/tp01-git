@@ -74,6 +74,9 @@
    
 ## Question 4.2 
     1) Git restore a permis de restorer le fichier avant la dernière modification apporté. On n'aurait pas pu le récupérer si on ne l'avait jamais commité.
+
+## Question 4.3 
+    1) test.txt se trouve maintenant dans le répertoire de travail. Le fichier n'a pas été supprimer du disque il a simplement été dé-indexé.
    
 
 
