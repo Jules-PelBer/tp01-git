@@ -68,6 +68,10 @@
         2cc24bf Création du readme
     
     2) Afin de pouvoir différencier plus facilement les commits dans l'historique.
+   
+## Question 4.1
+    1) Git show montre les modifications apporté au commit sélectionner. On y retrouve toute les modifications.
+   
 
 
 
