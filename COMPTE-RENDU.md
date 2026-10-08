@@ -105,6 +105,11 @@
 ## Question 6.4a
     1) Non le dépot local ne contient pas la modification. Git status ne prévient non plus car la commande git status donne le statut des fichiers sur le depot local.
 
+## Question 6.5
+    1) Répertoire de travail --( ? )--> Zone de préparation --( ? )--> Dépôt local --( ? )--> GitHub
+          ^                                                                               |
+          +------------------------------------(git pull)---------------------------------+
+
 
    
 
