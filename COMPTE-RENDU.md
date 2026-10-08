@@ -110,7 +110,13 @@
           ^                                                                               |
           +------------------------------------(git pull)---------------------------------+
 
+## Question 7.1
+    1) le clone contient tout l'historique.
+    2) il n'est pas présent car il y a le fichier .gitignore.
+    3) Non car le clone le fait tout seul
 
+## Question 7.2
+    1) Car si on poursuit les tp a la maison il faut faire un git pull pour récupérer ce qu'on a fait. et inversement pour quand on travaille a la maison en revenant du lycée.
    
 
 
