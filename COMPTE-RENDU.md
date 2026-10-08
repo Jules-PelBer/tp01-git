@@ -91,6 +91,11 @@
     
     2) la clé privée comme la clé publique ont "rwx------"
 
+## Question 5.4
+    1) Hi Jules-PelBer! You've successfully authenticated, but GitHub does not provide shell access.
+
+    2) Car la clé privée permet de débloquer la clé publique donc donner la publique est sans risque tant qu'on donne pas la clé privée.
+
    
 
 
