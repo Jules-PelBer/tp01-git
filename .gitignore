@@ -1,0 +1,6 @@
+# Brouillons et fichiers de test
+touch_brouillon.txt
+test.txt
+
+# Journaux
+*.log
