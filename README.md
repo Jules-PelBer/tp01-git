@@ -49,3 +49,16 @@ Ce dépôt contient mon compte rendu du TP01.
     3) git status range readme.md dans la section fichiers non suivis. Il se trouve dans le répertoire de fichiers.
 
     4) readme.md se trouve dans maintenant dans la section "modifications qui seront validées"
+    
+    5) commit e4949139f0598f4f8e5988c4d09ae3f025dc561e (HEAD -> main)
+        Author: Jules-PelBer <j.pelatanberger@gmail.com>
+        Date:   Thu Oct 8 09:17:55 2026 +0200
+
+        Création du README
+
+    6) Son auteur: Jules-PelBer / Sa date: Jeudi 8 octobre / son message: Création du README/ son hash :e4949139f0598f4f8e5988c4d09ae3f025dc561e
+
+    7) Il est écrit en base hexadécimale. Il comporte 
+    
+
+Année scolaire 2026-2027
