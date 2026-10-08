@@ -56,7 +56,7 @@
 ## Question 3.7
     1) Git status décrit readme.md comme modification qui ne seront pas validées.
     
-    2)Git diff montre ce qui  à été retiré et ajouté au fichier. Le + signifie les ajouts au document. 
+    2) Git diff montre ce qui  à été retiré et ajouté au fichier. Le + signifie les ajout au document. 
 
 
 
