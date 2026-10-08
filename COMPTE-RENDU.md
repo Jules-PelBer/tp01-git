@@ -72,6 +72,10 @@
 ## Question 4.1
     1) Git show montre les modifications apporté au commit sélectionner. On y retrouve toute les modifications.
    
+## Question 4.2 
+    1) Git restore a permis de restorer le fichier avant la dernière modification apporté. On n'aurait pas pu le récupérer si on ne l'avait jamais commité.
+   
+
 
 
 
