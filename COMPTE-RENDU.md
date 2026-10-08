@@ -58,5 +58,17 @@
     
     2) Git diff montre ce qui  à été retiré et ajouté au fichier. Le + signifie les ajout au document. 
 
+## Question 3.8
+    1) 314a251 (HEAD -> main) Modification pour la question 3.8
+        2c8ef20 Création de l'aide mémoire Git
+        1471274 Ajout de la question 3.7
+        c11e8dc Ajout de l'année scolaire dans le README
+        622fe8e Ajout du compte rendu (Question 0 à 3.5)
+        e494913 Création du README
+        2cc24bf Création du readme
+    
+    2) Afin de pouvoir différencier plus facilement les commits dans l'historique.
+
+
 
 
